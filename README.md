@@ -5,7 +5,7 @@ Snake made in rust using piston.
 ```bash
 cargo build --release
 ```
-(binary should be in ./target/release/snake_game)
+(binary should be in `./target/release/snake_game`)
 
 ## Run
 ```bash
